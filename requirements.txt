@@ -1,0 +1,7 @@
+schedule==0.6.0
+praw==6.1.1
+prawcore==1.0.1
+feedparser==5.2.1
+requests==2.18.4
+bs4==0.0.1
+lxml==4.2.1
